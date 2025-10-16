@@ -60,15 +60,15 @@ Insight: Expanding logistics and marketing focus in these high-performing cities
 
 Strategic Recommendations
 
-Occasion-Focused Campaigns: Enhance marketing efforts around top-performing events like Anniversary and Raksha Bandhan.
+1:Occasion-Focused Campaigns: Enhance marketing efforts around top-performing events like Anniversary and Raksha Bandhan.
 
-Product Bundling: Create bundle offers around top-selling categories (Soft Toys, Sweets) to increase average order value.
+2:Product Bundling: Create bundle offers around top-selling categories (Soft Toys, Sweets) to increase average order value.
 
-Time-Based Promotions: Launch targeted campaigns between 2 PM–8 PM for maximum impact.
+3:Time-Based Promotions: Launch targeted campaigns between 2 PM–8 PM for maximum impact.
 
-Regional Expansion: Prioritize operations and advertising in top-performing cities for higher ROI.
+4:Regional Expansion: Prioritize operations and advertising in top-performing cities for higher ROI.
 
-Seasonal Inventory Planning: Adjust stock levels based on monthly sales trends to reduce overstock or shortages.
+5:Seasonal Inventory Planning: Adjust stock levels based on monthly sales trends to reduce overstock or shortages.
 
 Conclusion-
 The FNP Sales Analysis Dashboard provides a comprehensive overview of sales dynamics, helping identify growth opportunities and performance gaps. By leveraging these insights, FNP can strengthen its data-driven decision-making, improve customer satisfaction, and maximize profitability throughout the year.
