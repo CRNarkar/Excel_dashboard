@@ -15,7 +15,7 @@ Key Highlights
 
 These metrics indicate a stable order volume and healthy revenue per transaction, suggesting strong customer engagement and repeat purchases during festive and occasion-based sales.
 
-Sales Performance Insights
+Sales Performance Insights::-
 1. Revenue by Occasion
 
 Top Performing Occasions: Anniversary, Raksha Bandhan, and Holi generated the highest revenues.
@@ -58,7 +58,7 @@ Leading Cities: Dhanbad, Imphal, and Kavali contribute the most orders.
 
 Insight: Expanding logistics and marketing focus in these high-performing cities can further strengthen market presence.
 
-Strategic Recommendations
+Strategic Recommendations::-
 
 1:Occasion-Focused Campaigns: Enhance marketing efforts around top-performing events like Anniversary and Raksha Bandhan.
 
